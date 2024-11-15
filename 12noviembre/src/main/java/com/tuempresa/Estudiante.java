@@ -22,5 +22,5 @@ public class Estudiante {
 	@Required
 	@Stereotype ("EMAIL")
 	String email;
-
+	
 }
